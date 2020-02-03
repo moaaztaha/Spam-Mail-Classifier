@@ -10,6 +10,14 @@
   - Word Counter to Vector 
 - Split data into train and test sets
 
+## Models:
+- Random Forest: 
+  - Precision: 96.48%
+  - Recall: 95.36%
+- LSTM(AWD_LSTM FASTAI):
+  - Precision: 98.28%
+  - Recall: 99.61%
+
 ## Finally Using Deep Learning + FastAI
 
 ![image-20200203020952992](/imgs/image-20200203020952992.png)
