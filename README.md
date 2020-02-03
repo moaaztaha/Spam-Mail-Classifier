@@ -18,9 +18,7 @@
   - Precision: 98.28%
   - Recall: 99.61%
 
-## Finally Using Deep Learning + FastAI
-
-![image-20200203020952992](/imgs/image-20200203020952992.png)
+## Trying Different ML Models
 
 ### Easy Data: spam vs easy_ham
 
@@ -65,3 +63,7 @@
     - testset results 
 
     ![image-20200201190448308](/imgs/image-20200201190448308.png)
+    
+## Finally Using Deep Learning + FastAI on All data used for Random Forest
+
+![image-20200203020952992](/imgs/image-20200203020952992.png)
