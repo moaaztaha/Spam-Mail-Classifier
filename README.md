@@ -10,6 +10,10 @@
   - Word Counter to Vector 
 - Split data into train and test sets
 
+## Finally Using Deep Learning + FastAI
+
+![image-20200203020952992](/imgs/image-20200203020952992.png)
+
 ### Easy Data: spam vs easy_ham
 
 ![image-20200201181655887](/imgs/image-20200201181655887.png)
